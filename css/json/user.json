@@ -1,0 +1,21 @@
+
+[
+    "user":[
+       {
+        'id':1,
+        'name': user1,
+        'email': admin@admin.com,
+        'status': 'active',
+        'role': 'Admin'
+        'password': 'admin123'
+       },
+       {
+        'id':2,
+        'name': user2,
+        'email': cliente@cliente.com,
+        'status': 'active',
+        'role': 'customer'
+        'password': 'cliente123'
+       }
+    ]
+]
